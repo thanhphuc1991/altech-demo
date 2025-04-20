@@ -18,8 +18,8 @@ A simple Spring Boot Java backend for managing an electronics store’s checkout
 ## Build & Run Locally
 ```bash
 # Clone the repo
-https://github.com/YOUR_USERNAME/altech-checkout-backend.git
-cd altech
+https://github.com/thanhphuc1991/altech-demo.git
+cd altech-demo
 
 # Build
 mvn clean install
