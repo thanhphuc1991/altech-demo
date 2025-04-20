@@ -1,0 +1,11 @@
+com/altech/demo/service/BasketService.class
+com/altech/demo/ElecApplication.class
+com/altech/demo/model/Product.class
+com/altech/demo/repository/ProductRepository.class
+com/altech/demo/controller/AdminController.class
+com/altech/demo/model/Basket.class
+com/altech/demo/repository/DealRepository.class
+com/altech/demo/config/SpringFoxConfig.class
+com/altech/demo/controller/BasketController.class
+com/altech/demo/model/Deal.class
+com/altech/demo/repository/BasketRepository.class
